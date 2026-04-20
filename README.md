@@ -1,4 +1,3 @@
-# Autonomous-Enterprise-Digital-Twin-Platform-ServiceNow-
 # 🚀 Autonomous Enterprise Digital Twin Platform (ServiceNow)
 
 ## 📌 Overview
